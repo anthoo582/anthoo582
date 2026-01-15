@@ -6,39 +6,22 @@
 </a>
 
 <h3 align="center">
-🧠 Desarrollo aplicaciones reales que la gente puede usar
+🧠 Desarrollo aplicaciones reales y herramientas funcionales
 </h3>
 
 <p align="center">
-Reproductores multimedia, herramientas de escritorio y proyectos open-source.<br/>
-Me enfoco en que funcionen bien y sean fáciles de usar.
+Me gusta crear software útil, aprender nuevas tecnologías<br/>
+y mejorar mis proyectos con feedback real.
 </p>
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🎵 Super Reproductor Multimedia
-Aplicación de escritorio **ejecutable** que reproduce videos, música, imágenes y PDFs en una sola app.
-
-- Soporta muchísimos formatos
-- Drag & Drop
-- Pantalla completa estilo YouTube
-- No requiere instalar Python
-
-👉 **Repositorio:**  
-https://github.com/anthoo582/super-reproductor-multimedia
-
-*(Tip: este repo ponelo “Pinned” en GitHub)*
-
----
-
 ## 🧐 Sobre mí
 
 👋 Soy **Anthony Lopez**, tengo 17 años y soy desarrollador desde **Uruguay 🇺🇾**.  
-Me gusta crear programas útiles, aprender cómo funcionan las cosas por dentro y mejorar mis proyectos con feedback real.
+Disfruto convertir ideas en aplicaciones que funcionen bien y sean fáciles de usar.
 
 - 🚀 Actualmente aprendiendo: **C++ y C#**
 - 💡 Intereses: **Apps de escritorio, UI/UX, Backend**
@@ -66,13 +49,13 @@ Me gusta crear programas útiles, aprender cómo funcionan las cosas por dentro 
 
 ## 🛠️ Feedback bienvenido
 
-Si ves algo que se pueda mejorar en mis proyectos:
+Si ves algo que se pueda mejorar en mis repos:
 - bugs
 - ideas
 - diseño
 - rendimiento
 
-👉 abrí un **Issue** o dejame un comentario.  
+👉 abrí un **Issue** o dejá un comentario.  
 Todo feedback suma 🙌
 
 ---
