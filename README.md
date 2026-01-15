@@ -20,12 +20,25 @@ y mejorar mis proyectos con feedback real.
 
 ## 🧐 Sobre mí
 
+<table>
+<tr>
+<td width="65%">
+
 👋 Soy **Anthony Lopez**, tengo 17 años y soy desarrollador desde **Uruguay 🇺🇾**.  
 Disfruto convertir ideas en aplicaciones que funcionen bien y sean fáciles de usar.
 
 - 🚀 Actualmente aprendiendo: **C++ y C#**
 - 💡 Intereses: **Apps de escritorio, UI/UX, Backend**
 - 💬 Hablemos de: **Python, Java, HTML, CSS, JavaScript**
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,9 +53,27 @@ Disfruto convertir ideas en aplicaciones que funcionen bien y sean fáciles de u
 ## 🌍 Redes y contacto
 
 <div align="center">
-  <a href="https://instagram.com/17.aantho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/DREAMFX10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@antho582"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+<a href="https://instagram.com/17.aantho" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://x.com/DREAMFX10" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@antho582" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/playlist/5AL9pWItQfqLrn1YptYQ0e" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61569549443438" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
 </div>
 
 ---
