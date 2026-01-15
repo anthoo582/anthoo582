@@ -2,95 +2,79 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=500&lines=Hola!+Soy+Anthony+Lopez;Desarrollador+de+Uruguay+🇺🇾;Creo+apps+y+herramientas+útiles;Python+%7C+Java+%7C+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Anthony+Lopez;Tengo+17+a%C3%B1os;Desarrollador+de+Uruguay+%F0%9F%87%BA%F0%9F%87%BE;Amante+del+C%C3%B3digo" alt="Typing SVG" />
 </a>
 
-<h3 align="center">
-🧠 Desarrollo aplicaciones reales y herramientas funcionales
-</h3>
+<h3 align="center">✨ Creando experiencias web únicas y atractivas ✨</h3>
 
-<p align="center">
-Me gusta crear software útil, aprender nuevas tecnologías<br/>
-y mejorar mis proyectos con feedback real.
-</p>
-
+<!-- Barra de onda animada con gradiente -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=60&section=header&animation=twinkling" width="100%" alt="Animated Wave Line"/>
 </div>
 
----
+<br/>
 
-## 🧐 Sobre mí
+<!-- About Me Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle" width="50%" align="left">
+        <h3>🧐 Sobre Mí</h3>
+        <p>
+          👋 ¡Hola! Soy <strong>Anthony Lopez</strong>, un desarrollador apasionado de 17 años desde <strong>Uruguay 🇺🇾</strong>.
+          <br/><br/>
+          Me encanta convertir ideas en realidad mediante el código. Siempre estoy aprendiendo nuevas tecnologías y buscando formas de mejorar mis habilidades.
+          <br/><br/>
+          🚀 <strong>Actualmente aprendiendo:</strong> C++ & C#<br/>
+          💡 <strong>Intereses:</strong> Desarrollo Web, UI/UX, Backend<br/>
+          💬 <strong>Hablemos sobre:</strong> HTML, CSS, Javascript, Python, Java.
+        </p>
+      </td>
 
-<table>
-<tr>
-<td width="65%">
+      <td valign="middle" width="50%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 300px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-👋 Soy **Anthony Lopez**, tengo 17 años y soy desarrollador desde **Uruguay 🇺🇾**.  
-Disfruto convertir ideas en aplicaciones que funcionen bien y sean fáciles de usar.
+<!-- Social Media & Contact -->
+<div align="center">
+  <a href="https://instagram.com/17.aantho" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-- 🚀 Actualmente aprendiendo: **C++ y C#**
-- 💡 Intereses: **Apps de escritorio, UI/UX, Backend**
-- 💬 Hablemos de: **Python, Java, HTML, CSS, JavaScript**
+  <a href="https://x.com/DREAMFX10" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 
-</td>
-<td width="35%" align="center">
+  <a href="https://www.youtube.com/@antho582" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+  <a href="https://open.spotify.com/playlist/5AL9pWItQfqLrn1YptYQ0e" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 
-</td>
-</tr>
-</table>
+  <a href="https://www.facebook.com/profile.php?id=61569549443438" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
----
+<br/>
 
-## 💻 Tech Stack
+<!-- Skills Section -->
+<h3>💻 Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&theme=dark" />
 </div>
 
----
+<br/>
 
-## 🌍 Redes y contacto
-
-<div align="center">
-
-<a href="https://instagram.com/17.aantho" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://x.com/DREAMFX10" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@antho582" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://open.spotify.com/playlist/5AL9pWItQfqLrn1YptYQ0e" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61569549443438" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🛠️ Feedback bienvenido
-
-Si ves algo que se pueda mejorar en mis repos:
-- bugs
-- ideas
-- diseño
-- rendimiento
-
-👉 abrí un **Issue** o dejá un comentario.  
-Todo feedback suma 🙌
-
----
-
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
+
+</div>
