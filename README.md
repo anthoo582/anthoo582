@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Anthony+Lopez;Tengo+17+a%C3%B1os;Desarrollador+de+Uruguay
-                                      +%F0%9F%87%BA%F0%9F%87%BE;Amante+del+C%C3%B3digo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hola!+Soy+Anthony+Lopez;Tengo+17+a%C3%B1os;Desarrollador+de+Uruguay;Amante+del+C%C3%B3digo" alt="Typing SVG" /></a>
 
 <h3 align="center">✨ Creando experiencias web únicas y atractivas ✨</h3>
 
@@ -15,7 +14,7 @@
 <td valign="middle" width="50%" align="left">
 <h3>🧐 Sobre Mí</h3>
 <p>
-👋 ¡Hola! Soy <strong>Anthony Lopez</strong>, un desarrollador apasionado de 17 años desde <strong>Urug🇺🇾 🇺🇾</strong>.
+👋 ¡Hola! Soy <strong>Anthony Lopez</strong>, un desarrollador apasionado de 17 años desde <strong>Uruguay</strong>.
 
 
 
