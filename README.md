@@ -35,7 +35,7 @@ Me encanta convertir ideas en realidad mediante el código. Siempre estoy aprend
 
 
 
-💡 <strong>Intereses:</strong> Desarrollo de Video Juegos, C#/C++
+💡 <strong>Intereses:</strong> Desarrollo de Video Juegos (C#/C++)
 
 
 
