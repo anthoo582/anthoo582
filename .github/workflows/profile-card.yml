@@ -1,0 +1,43 @@
+name: Profile card
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_profile_card.py"
+      - "profile.config.json"
+      - "assets/fonts/**"
+      - ".github/workflows/profile-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-card-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile card
+        env:
+          # PROFILE_CARD_TOKEN (opcional): un token personal para incluir contribuciones privadas.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARD_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_profile_card.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- assets/profile-card.svg; then
+            echo "Sin cambios"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-card.svg
+          git commit -m "chore: update profile card"
+          git push
