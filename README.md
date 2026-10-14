@@ -11,7 +11,7 @@
 <a href="https://www.facebook.com/profile.php?id=61569549443438"><img src="https://img.shields.io/badge/Facebook-18181b?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
 <a href="https://open.spotify.com/playlist/5AL9pWItQfqLrn1YptYQ0e"><img src="https://img.shields.io/badge/Spotify-18181b?style=flat-square&logo=spotify&logoColor=1ED760" alt="Spotify" /></a>
 
-<!-- Cuenta las visitas al perfil; el número aparece en el panel de arriba -->
+<!-- Cuenta las visitas al perfil -->
 <img src="https://komarev.com/ghpvc/?username=anthoo582" width="1" height="1" alt="" />
 
 </div>
