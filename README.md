@@ -75,6 +75,23 @@
 <tr><td>Institución</td><td>Mercado Pago</td></tr>
 </table>
 
+## 🕹️ Ports para PS2
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/cover_ps2.png" width="200" alt="Mario Kart 64 para PS2" />
+<br/><b>Mario Kart 64 · PS2</b>
+<br/><a href="https://github.com/anthoo582/mario-kart-64-ps2/raw/refs/heads/main/compilaciones/disco/OPL/CD/SLUS_999.99.SuperMarioKart64.iso"><img src="https://img.shields.io/badge/Descargar_versión_1.3-E60012?style=for-the-badge&logo=github&logoColor=white" alt="Descargar versión 1.3" /></a>
+</td>
+<td align="center" width="50%">
+<img src="assets/port%20ps2%20goden%20eye.png" width="200" alt="GoldenEye 007 port para PS2" />
+<br/><b>GoldenEye 007 · PS2</b>
+<br/><img src="https://img.shields.io/badge/Próximamente-808080?style=for-the-badge" alt="Próximamente" />
+</td>
+</tr>
+</table>
+
 <p><sub>¡Gracias por pasar! 👾</sub></p>
 
 <!-- Cuenta las visitas al perfil -->
